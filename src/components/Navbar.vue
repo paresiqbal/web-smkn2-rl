@@ -164,5 +164,6 @@
 <style scoped>
 .navbar {
   color: #fff;
+  padding: 0px !important;
 }
 </style>
