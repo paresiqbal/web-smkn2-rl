@@ -54,7 +54,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="/image/Guru/guru5.jfif" class="card-img" />
+              <img src="/image/Guru/guru5.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -66,7 +66,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="/image/Guru/guru6.jfif" class="card-img" />
+              <img src="/image/Guru/guru6.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
