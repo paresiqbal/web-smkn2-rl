@@ -49,9 +49,9 @@ export default {
         <div class="swiper-wrapper">
           <swiper :navigation="true" :modules="modules" class="mySwiper">
             <swiper-slide
-              ><img src="image/Carousel/carousel1.jpg" /></swiper-slide
+              ><img src="/image/Carousel/carousel1.jpg" /></swiper-slide
             ><swiper-slide
-              ><img src="image/Carousel/carousel2.jpg"
+              ><img src="/image/Carousel/carousel2.jpg"
             /></swiper-slide>
           </swiper>
         </div>

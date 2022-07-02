@@ -8,7 +8,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Cardhome/card1.jpg" class="card-img" />
+              <img src="/image/Cardhome/card1.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -28,7 +28,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Cardhome/card2.jpg" class="card-img" />
+              <img src="/image/Cardhome/card2.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -49,7 +49,7 @@
           <div class="image-content">
             <div class="card-image">
               <img
-                src="image/Cardhome/card3.jpg"
+                src="/image/Cardhome/card3.jpg"
                 target="_blank"
                 class="card-img"
               />

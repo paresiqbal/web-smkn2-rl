@@ -21,7 +21,7 @@ import Tags from "../components/Tags.vue";
         >
       </div>
       <div class="image">
-        <img src="image/News/berita1.jpg" />
+        <img src="/image/News/berita1.jpg" />
       </div>
       <div class="text-content">
         <p>

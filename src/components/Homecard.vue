@@ -8,7 +8,7 @@
           <div class="image-content">
             <span class="overlay"></span>
             <div class="card-image">
-              <img src="../assets/image/person.jpg" class="card-img" />
+              <img src="../assets//image/person.jpg" class="card-img" />
             </div>
           </div>
 
@@ -26,7 +26,7 @@
           <div class="image-content">
             <span class="overlay"></span>
             <div class="card-image">
-              <img src="../assets/image/person.jpg" class="card-img" />
+              <img src="../assets//image/person.jpg" class="card-img" />
             </div>
           </div>
 
@@ -44,7 +44,7 @@
           <div class="image-content">
             <span class="overlay"></span>
             <div class="card-image">
-              <img src="../assets/image/person.jpg" class="card-img" />
+              <img src="../assets//image/person.jpg" class="card-img" />
             </div>
           </div>
 

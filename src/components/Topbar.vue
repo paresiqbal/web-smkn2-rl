@@ -4,7 +4,7 @@
   <div class="container">
     <div class="top-warapper">
       <div class="image">
-        <a href="/"> <img src="/image/logo.png" alt="" /> </a>
+        <a href="/"> <img src="//image/logo.png" alt="" /> </a>
       </div>
       <div class="search-box">
         <input class="search-txt" type="text" name="" placeholder="search..." />

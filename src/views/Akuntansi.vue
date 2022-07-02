@@ -6,7 +6,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/dwi.jpg" class="card-img" />
+              <img src="/image/Guru/dwi.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Dwi Oktarina S.E</p>
@@ -17,7 +17,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru9.jpg" class="card-img" />
+              <img src="/image/Guru/guru9.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Falah Izuddin S.Kom</p>
@@ -28,7 +28,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru14.jpg" class="card-img" />
+              <img src="/image/Guru/guru14.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Dio Stevano F.R A.Md</p>
@@ -39,7 +39,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru15.jpg" class="card-img" />
+              <img src="/image/Guru/guru15.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Ade Putri O., S.Kom</p>

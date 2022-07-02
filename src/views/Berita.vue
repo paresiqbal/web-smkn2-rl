@@ -6,7 +6,7 @@
       <h2 class="judul">Berita</h2>
       <div class="news">
         <div class="image-container">
-          <a href="/"><img src="image/News/berita1.jpg" /></a>
+          <a href="/"><img src="/image/News/berita1.jpg" /></a>
         </div>
         <div class="text-container">
           <div class="text">
@@ -29,7 +29,7 @@
 
       <div class="news">
         <div class="image-container">
-          <a href="/"><img src="image/News/berita4.jpg" /></a>
+          <a href="/"><img src="/image/News/berita4.jpg" /></a>
         </div>
         <div class="text-container">
           <div class="text">
@@ -49,7 +49,7 @@
 
       <div class="news">
         <div class="image-container">
-          <a href="/"><img src="image/News/berita3.jpg" /></a>
+          <a href="/"><img src="/image/News/berita3.jpg" /></a>
         </div>
         <div class="text-container">
           <div class="text">
@@ -70,7 +70,7 @@
 
       <div class="news">
         <div class="image-container">
-          <a href="/"><img src="image/News/berita2.jpg" /></a>
+          <a href="/"><img src="/image/News/berita2.jpg" /></a>
         </div>
         <div class="text-container">
           <div class="text">

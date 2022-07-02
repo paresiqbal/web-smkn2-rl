@@ -6,7 +6,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/raden.jpg" class="card-img" />
+              <img src="/image/Guru/raden.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Drs.Radeh Suhardi</p>
@@ -17,7 +17,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru14.jpg" class="card-img" />
+              <img src="/image/Guru/guru14.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Falah Izuddin S.Kom</p>
@@ -28,7 +28,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru10.jpg" class="card-img" />
+              <img src="/image/Guru/guru10.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Dio Stevano F.R A.Md</p>
@@ -39,7 +39,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru16.jpg" class="card-img" />
+              <img src="/image/Guru/guru16.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Ade Putri O., S.Kom</p>

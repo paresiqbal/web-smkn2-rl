@@ -10,11 +10,11 @@
     :modules="modules"
     class="mySwiper"
   >
-    <swiper-slide><img src="image/Carousel/baner1.png" /></swiper-slide
-    ><swiper-slide><img src="image/Carousel/baner2.jpg" /></swiper-slide
-    ><swiper-slide><img src="image/Carousel/baner3.jpg" /></swiper-slide
-    ><swiper-slide><img src="image/Carousel/baner4.jpg" /></swiper-slide>
-    <swiper-slide><img src="image/Carousel/baner5.jpg" /></swiper-slide>
+    <swiper-slide><img src="/image/Carousel/baner1.png" /></swiper-slide
+    ><swiper-slide><img src="/image/Carousel/baner2.jpg" /></swiper-slide
+    ><swiper-slide><img src="/image/Carousel/baner3.jpg" /></swiper-slide
+    ><swiper-slide><img src="/image/Carousel/baner4.jpg" /></swiper-slide>
+    <swiper-slide><img src="/image/Carousel/baner5.jpg" /></swiper-slide>
   </swiper>
 </template>
 <script>

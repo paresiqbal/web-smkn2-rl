@@ -6,7 +6,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/nasrizal.jpg" class="card-img" />
+              <img src="/image/Guru/nasrizal.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Nasrizal S.Pd</p>
@@ -17,7 +17,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/ayu.jpg" class="card-img" />
+              <img src="/image/Guru/ayu.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Ayu Citra Yelly S.Kom</p>
@@ -28,7 +28,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/neni.jpg" class="card-img" />
+              <img src="/image/Guru/neni.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Neni Citra Dewi S.T, M.TPd</p>
@@ -39,7 +39,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru10.jpg" class="card-img" />
+              <img src="/image/Guru/guru10.jpg" class="card-img" />
             </div>
             <div class="card-content">
               <p class="name">Sondang S.Sn</p>

@@ -6,7 +6,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru1.jpg" class="card-img" />
+              <img src="/image/Guru/guru1.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -18,7 +18,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru2.jpg" class="card-img" />
+              <img src="/image/Guru/guru2.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -30,7 +30,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru3.jpg" class="card-img" />
+              <img src="/image/Guru/guru3.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -42,7 +42,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru4.jpg" class="card-img" />
+              <img src="/image/Guru/guru4.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -54,7 +54,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru5.jfif" class="card-img" />
+              <img src="/image/Guru/guru5.jfif" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -66,7 +66,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru6.jfif" class="card-img" />
+              <img src="/image/Guru/guru6.jfif" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -78,7 +78,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru7.jpg" class="card-img" />
+              <img src="/image/Guru/guru7.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -90,7 +90,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/guru8.jpg" class="card-img" />
+              <img src="/image/Guru/guru8.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -102,7 +102,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/raden.jpg" class="card-img" />
+              <img src="/image/Guru/raden.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -114,7 +114,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/neni.jpg" class="card-img" />
+              <img src="/image/Guru/neni.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -126,7 +126,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/muthia.jpg" class="card-img" />
+              <img src="/image/Guru/muthia.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -138,7 +138,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/nasrizal.jpg" class="card-img" />
+              <img src="/image/Guru/nasrizal.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -150,7 +150,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/dio.jpg" class="card-img" />
+              <img src="/image/Guru/dio.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -162,7 +162,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/ade.jpg" class="card-img" />
+              <img src="/image/Guru/ade.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -174,7 +174,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/dwi.jpg" class="card-img" />
+              <img src="/image/Guru/dwi.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -186,7 +186,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/Guru/ayu.jpg" class="card-img" />
+              <img src="/image/Guru/ayu.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">

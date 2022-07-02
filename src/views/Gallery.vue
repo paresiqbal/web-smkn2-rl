@@ -99,66 +99,66 @@
 
 .item-inner {
   background-size: cover;
-  background-image: url("image/Gallery/1.jpg");
+  background-image: url("/image/Gallery/1.jpg");
   padding-top: calc(100% / (16 / 9));
 }
 
 .item:nth-child(2) .item-inner {
-  background-image: url("image/Gallery/2.jpg");
+  background-image: url("/image/Gallery/2.jpg");
 }
 .item:nth-child(3) .item-inner {
-  background-image: url("image/Gallery/3.jpg");
+  background-image: url("/image/Gallery/3.jpg");
 }
 .item:nth-child(4) .item-inner {
-  background-image: url("image/Gallery/4.jfif");
+  background-image: url("/image/Gallery/4.jfif");
 }
 .item:nth-child(5) .item-inner {
-  background-image: url("image/Gallery/5.jpg");
+  background-image: url("/image/Gallery/5.jpg");
 }
 .item:nth-child(6) .item-inner {
-  background-image: url("image/Gallery/6.jfif");
+  background-image: url("/image/Gallery/6.jfif");
 }
 .item:nth-child(7) .item-inner {
-  background-image: url("image/Gallery/7.jfif");
+  background-image: url("/image/Gallery/7.jfif");
 }
 .item:nth-child(8) .item-inner {
-  background-image: url("image/Gallery/8.jfif");
+  background-image: url("/image/Gallery/8.jfif");
 }
 .item:nth-child(9) .item-inner {
-  background-image: url("image/Gallery/9.jpeg");
+  background-image: url("/image/Gallery/9.jpeg");
 }
 .item:nth-child(10) .item-inner {
-  background-image: url("image/Gallery/10.jpeg");
+  background-image: url("/image/Gallery/10.jpeg");
 }
 .item:nth-child(11) .item-inner {
-  background-image: url("image/Gallery/11.jpeg");
+  background-image: url("/image/Gallery/11.jpeg");
 }
 .item:nth-child(12) .item-inner {
-  background-image: url("image/Gallery/12.jpeg");
+  background-image: url("/image/Gallery/12.jpeg");
 }
 .item:nth-child(13) .item-inner {
-  background-image: url("image/Gallery/13.jfif");
+  background-image: url("/image/Gallery/13.jfif");
 }
 .item:nth-child(14) .item-inner {
-  background-image: url("image/Gallery/14.jpeg");
+  background-image: url("/image/Gallery/14.jpeg");
 }
 .item:nth-child(15) .item-inner {
-  background-image: url("image/Gallery/15.jpg");
+  background-image: url("/image/Gallery/15.jpg");
 }
 .item:nth-child(16) .item-inner {
-  background-image: url("image/Gallery/16.jpg");
+  background-image: url("/image/Gallery/16.jpg");
 }
 .item:nth-child(17) .item-inner {
-  background-image: url("image/Gallery/17.jpg");
+  background-image: url("/image/Gallery/17.jpg");
 }
 .item:nth-child(18) .item-inner {
-  background-image: url("image/Gallery/18.jpg");
+  background-image: url("/image/Gallery/18.jpg");
 }
 .item:nth-child(19) .item-inner {
-  background-image: url("image/Gallery/19.jpg");
+  background-image: url("/image/Gallery/19.jpg");
 }
 .item:nth-child(20) .item-inner {
-  background-image: url("image/Gallery/20.jpg");
+  background-image: url("/image/Gallery/20.jpg");
 }
 
 @media screen and (min-width: 480px) {

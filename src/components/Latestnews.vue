@@ -7,7 +7,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/News/berita1.jpg" class="card-img" />
+              <img src="/image/News/berita1.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -23,7 +23,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/News/berita2.jpg" class="card-img" />
+              <img src="/image/News/berita2.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">
@@ -39,7 +39,7 @@
         <div class="card">
           <div class="image-content">
             <div class="card-image">
-              <img src="image/News/berita3.jpg" class="card-img" />
+              <img src="/image/News/berita3.jpg" class="card-img" />
             </div>
           </div>
           <div class="card-content">

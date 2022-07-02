@@ -6,7 +6,7 @@
       <h2 class="judul">Agenda</h2>
       <div class="news">
         <div class="image-container">
-          <a href="/"><img src="image/Agenda/agenda1.jpg" /></a>
+          <a href="/"><img src="//image/Agenda/agenda1.jpg" /></a>
         </div>
         <div class="text-container">
           <div class="text">
@@ -24,7 +24,7 @@
 
       <div class="news">
         <div class="image-container">
-          <a href="/"><img src="image/Agenda/agenda2.jpg" /></a>
+          <a href="/"><img src="//image/Agenda/agenda2.jpg" /></a>
         </div>
         <div class="text-container">
           <div class="text">

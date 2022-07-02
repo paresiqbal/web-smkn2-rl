@@ -13,29 +13,29 @@
       :breakpoints="swiperOptions.breakpoints"
     >
       <swiper-slide
-        ><img src="image/Eskul/osis.jpg" /><a href="/">Osis</a></swiper-slide
+        ><img src="/image/Eskul/osis.jpg" /><a href="/">Osis</a></swiper-slide
       >
       <swiper-slide
-        ><img src="image/Eskul/basket.jpg" /><a href="/"
+        ><img src="/image/Eskul/basket.jpg" /><a href="/"
           >Basket</a
         ></swiper-slide
       ><swiper-slide
-        ><img src="image/Eskul/futsal.jpg" /><a href="/"
+        ><img src="/image/Eskul/futsal.jpg" /><a href="/"
           >Futsal</a
         ></swiper-slide
       ><swiper-slide
-        ><img src="image/Eskul/paskibra.jpg" /><a href="/"
+        ><img src="/image/Eskul/paskibra.jpg" /><a href="/"
           >Paskibra</a
         ></swiper-slide
       ><swiper-slide
-        ><img src="image/Eskul/pmr.jpg" /><a href="/">Pmr</a></swiper-slide
+        ><img src="/image/Eskul/pmr.jpg" /><a href="/">Pmr</a></swiper-slide
       ><swiper-slide
-        ><img src="image/Eskul/pramuka.jpg" /><a href="/"
+        ><img src="/image/Eskul/pramuka.jpg" /><a href="/"
           >Pramuka</a
         ></swiper-slide
       >
       <swiper-slide
-        ><img src="image/Eskul/taekwondo.jpg" /><a href="/"
+        ><img src="/image/Eskul/taekwondo.jpg" /><a href="/"
           >Taekwondo</a
         ></swiper-slide
       >

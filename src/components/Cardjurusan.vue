@@ -13,27 +13,28 @@
       :breakpoints="swiperOptions.breakpoints"
     >
       <swiper-slide>
-        <img src="image/Cardhome/jurusan1.jpg" /><router-link :to="'/tkj'"
+        <img src="/image/Cardhome/jurusan1.jpg" /><router-link :to="'/tkj'"
           >Teknik Komputer Jaringan</router-link
         ></swiper-slide
       >
       <swiper-slide
-        ><img src="image/Cardhome/jurusan2.jpg" /><router-link
+        ><img src="/image/Cardhome/jurusan2.jpg" /><router-link
           :to="'/multimedia'"
           >Multimedia</router-link
         ></swiper-slide
       ><swiper-slide
-        ><img src="image/Cardhome/jurusan3.jpg" /><router-link
+        ><img src="/image/Cardhome/jurusan3.jpg" /><router-link
           :to="'/perkantoran'"
           >Perkantoran</router-link
         ></swiper-slide
       ><swiper-slide
-        ><img src="image/Cardhome/jurusan4.jpg" /><router-link
+        ><img src="/image/Cardhome/jurusan4.jpg" /><router-link
           :to="'/akuntansi'"
           >Akuntansi</router-link
         ></swiper-slide
       ><swiper-slide
-        ><img src="image/Cardhome/jurusan5.jpg" /><router-link :to="'/jasaboga'"
+        ><img src="/image/Cardhome/jurusan5.jpg" /><router-link
+          :to="'/jasaboga'"
           >Tata Boga</router-link
         ></swiper-slide
       >
