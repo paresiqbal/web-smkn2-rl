@@ -2,7 +2,7 @@
   <div class="slide-container">
     <div class="main-content">
       <h2 class="judul">Sambutan</h2>
-      <img src="/image/aset/sambutan.jpg" />
+      <img src="image/aset/sambutan.jpg" />
       <p>Assalamualaikum Warahmatulahi Wabarakatuh</p>
       <p>
         Pertama-tama mari kita panjatkan puji syukur kehadirat Allah SWT yang
