@@ -1,19 +1,22 @@
 <script setup>
-import { RouterLink, RouterView } from "vue-router";
+import { RouterLink, RouterView, useRoute, useRouter } from "vue-router";
 import { computed } from "@vue/reactivity";
 import Topbar from "./components/Topbar.vue";
 import Navbar from "./components/Navbar.vue";
 import Footer from "./components/Footer.vue";
+
+const router = useRoute();
+const isLogin = computed(() => router.name == "Login");
+console.log(isLogin.value);
 </script>
 
 <template>
-  <Topbar />
+  <Topbar v-if="!isLogin" />
   <div class="navbar">
-    <Navbar />
+    <Navbar v-if="!isLogin" />
   </div>
-
   <RouterView />
-  <Footer />
+  <Footer v-if="!isLogin" />
 </template>
 
 <style>
