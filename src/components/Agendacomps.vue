@@ -139,4 +139,10 @@ ul.list-item a:hover {
     height: 290px;
   }
 }
+
+@media screen and (max-width: 500px) {
+  .slide-container {
+    margin: 0 20px;
+  }
+}
 </style>
