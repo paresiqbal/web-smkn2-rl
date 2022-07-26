@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>EKSTRAKULIKULER</h1>
+    <h1 class="judul">EKSTRAKULIKULER</h1>
     <swiper
       :slidesPerView="3"
       :spaceBetween="30"
@@ -82,13 +82,13 @@ export default {
 
 <style scoped>
 .container {
-  margin: 40px;
+  margin: 30px auto;
 }
 
 .container h1 {
   text-align: center;
-  padding-bottom: 28px;
-  font-size: 40px;
+  padding-bottom: 10px;
+  font-size: 26px;
   color: #183153;
   font-weight: 700;
 }
@@ -102,8 +102,8 @@ export default {
   text-align: center;
   font-size: 18px;
   background: #fff;
-  height: 200px;
-  width: 350px;
+  height: 150px;
+  width: 300px;
 
   /* Center slide text vertically */
   display: -webkit-box;
@@ -140,21 +140,14 @@ export default {
   text-decoration: none;
 }
 
-@media only screen and (max-width: 1085px) {
-  .judul {
-    font-size: 36px;
+@media screen and (min-width: 500px) {
+  .swiper-slide {
+    height: 200px;
+    width: 350px;
   }
-}
-
-@media screen and (max-width: 989px) {
-  .judul {
-    font-size: 32px;
-  }
-}
-
-@media screen and (max-width: 486px) {
-  .judul {
-    font-size: 26px;
+  .container h1 {
+    font-size: 40px;
+    padding-bottom: 28px;
   }
 }
 </style>

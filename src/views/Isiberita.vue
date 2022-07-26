@@ -45,7 +45,6 @@ import Tags from "../components/Tags.vue";
 
 <style scoped>
 .slide-container {
-  margin: 0 140px;
   display: flex;
   color: #183153;
 }

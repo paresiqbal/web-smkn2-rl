@@ -96,7 +96,6 @@
 
 <style scoped>
 .slide-container {
-  margin: 0 140px;
   display: flex;
   color: #183153;
 }
@@ -166,6 +165,12 @@
 
   .container {
     display: inline;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .slide-container {
+    margin: 0 140px;
   }
 }
 </style>

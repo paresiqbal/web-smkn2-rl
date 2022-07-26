@@ -70,10 +70,6 @@
 </template>
 
 <style scoped>
-.slide-container {
-  margin: 0 100px;
-}
-
 .judul {
   font-size: 40px;
   font-weight: 500;
@@ -164,6 +160,10 @@
 @media screen and (min-width: 480px) {
   .item {
     flex: 1 1 50%;
+  }
+
+  .slide-container {
+    margin: 0 100px;
   }
 }
 

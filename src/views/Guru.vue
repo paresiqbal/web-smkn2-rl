@@ -203,8 +203,7 @@
 
 <style scoped>
 .slide-content {
-  margin: 0 140px;
-  padding: 25px 0;
+  padding: 20px 0;
   color: #183153;
 }
 
@@ -267,5 +266,11 @@
   font-size: 13px;
   color: #183153;
   text-align: center;
+}
+
+@media (min-width: 574px) {
+  .slide-container {
+    margin: 0 140px;
+  }
 }
 </style>

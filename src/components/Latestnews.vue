@@ -121,7 +121,6 @@
   text-align: center;
 }
 .judul {
-  padding-bottom: 28px;
   font-size: 40px;
   text-align: center;
   padding-top: 25px;

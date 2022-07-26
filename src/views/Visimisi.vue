@@ -30,14 +30,13 @@ import Sidebar from "../components/Sidebar.vue";
 <style scoped>
 .slide-container {
   display: flex;
-  margin: 0 140px;
 }
 
 .judul {
   font-size: 40px;
   font-weight: 500;
   color: #183153;
-  padding-bottom: 10px;
+  padding: 20px 0;
 }
 
 .subjudul {
@@ -65,6 +64,12 @@ import Sidebar from "../components/Sidebar.vue";
 @media (max-width: 998px) {
   .slide-container {
     display: grid;
+  }
+}
+
+@media (min-width: 574px) {
+  .slide-container {
+    margin: 0 140px;
   }
 }
 </style>

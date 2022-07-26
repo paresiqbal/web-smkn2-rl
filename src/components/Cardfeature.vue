@@ -104,12 +104,8 @@
   background: #e9ecef;
   padding-bottom: 30px;
 }
-.slide-content {
-  margin: 0 140px;
-}
 .card-wrapper {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
   justify-content: space-around;
 }
 .card {
@@ -149,21 +145,14 @@
   padding-left: 8px;
 }
 
-@media screen and (min-width: 480px) {
-  .item {
-    flex: 1 1 50%;
+@media screen and (min-width: 600px) {
+  .slide-content {
+    margin: 0 140px;
   }
-}
-
-@media screen and (min-width: 768px) {
-  .item {
-    flex: 1 1 33.333%;
-  }
-}
-
-@media screen and (min-width: 1152px) {
-  .item {
-    flex: 1 1 25%;
+  .card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
 }
 </style>

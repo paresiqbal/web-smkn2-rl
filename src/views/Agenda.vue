@@ -48,9 +48,9 @@
 
 <style scoped>
 .slide-container {
-  margin: 0 140px;
   display: flex;
   color: #183153;
+  margin: 0 140px;
 }
 
 .news-wrapper h2 {
@@ -119,5 +119,8 @@
   .container {
     display: inline;
   }
+}
+
+@media screen and (min-width: 500px) {
 }
 </style>

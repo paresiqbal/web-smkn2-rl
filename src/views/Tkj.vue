@@ -91,15 +91,15 @@ import Sidebar from "../components/Sidebar.vue";
 <style scoped>
 .slide-container {
   display: flex;
-  margin: 0 140px;
 }
 .slide-content {
   padding: 25px 0;
   color: #183153;
 }
 .slide-content h2 {
-  font-size: 40px;
-  font-weight: 400;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
 }
 .card-wrapper {
   display: flex;
@@ -176,11 +176,23 @@ import Sidebar from "../components/Sidebar.vue";
 @media screen and (max-width: 574px) {
   .slide-container {
     flex-direction: column;
-    margin: 0 50px;
+    margin: 0 30px;
   }
 
   .card-wrapper {
     gap: 4px;
+  }
+}
+
+@media screen and (min-width: 574px) {
+  .slide-container {
+    margin: 0 140px;
+  }
+
+  .slide-content h2 {
+    font-size: 40px;
+    text-align: left;
+    padding: 20px 0;
   }
 }
 </style>

@@ -14,7 +14,17 @@
       <div class="row">
         <div class="footer-col map">
           <h4>Peta</h4>
-          <div id="map"></div>
+          <div id="map">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3982.6007658994604!2d102.55482541484571!3d-3.4468437427710152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e313bb75d88e777%3A0xad755a91d7b020be!2sSMKN%202%20Rejang%20Lebong!5e0!3m2!1sen!2sid!4v1658837610183!5m2!1sen!2sid"
+              width="100%"
+              height="100%"
+              style="border: 0"
+              allowfullscreen=""
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"
+            ></iframe>
+          </div>
         </div>
         <div class="footer-col bantuan">
           <h4>Bantuan</h4>
@@ -76,9 +86,9 @@ ul {
   width: 25%;
   padding: 0 15px;
 }
-.footer-col.map {
+/* .footer-col.map {
   padding-right: 15rem;
-}
+} */
 
 .footer-col h4 {
   font-size: 18px;
@@ -132,7 +142,7 @@ ul {
 }
 #map {
   height: 250px;
-  width: 250px;
+  width: 100%;
   background: #fff;
 }
 
@@ -149,7 +159,7 @@ ul {
   }
   #map {
     height: 250px;
-    width: 445px;
+    width: 361px;
   }
 }
 </style>

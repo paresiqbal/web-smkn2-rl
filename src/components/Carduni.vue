@@ -3,7 +3,7 @@
 <template>
   <div class="slide-container">
     <div class="slide-content">
-      <h1 class="judul">SMKN2RL SMARTHSCHOOL</h1>
+      <h1 class="judul">SMARTSCHOOL</h1>
       <div class="card-wrapper">
         <div class="card">
           <div class="image-content">
@@ -151,31 +151,30 @@
 }
 
 .judul {
-  padding-bottom: 28px;
+  padding: auto 25px;
   font-size: 40px;
   text-align: center;
-  padding-top: 25px;
   color: #183153;
   font-weight: 700;
 }
 
-@media only screen and (max-width: 1230px) {
+@media only screen and (max-width: 1207px) {
   .card {
-    width: 350px;
+    width: 340px;
   }
   .card-image {
     height: 130px;
-    width: 350px;
+    width: 340px;
   }
 }
 
 @media only screen and (max-width: 1085px) {
   .card {
-    width: 320px;
+    width: 330px;
   }
   .card-image {
-    height: 120px;
-    width: 320px;
+    height: 130px;
+    width: 330px;
   }
 
   .judul {
@@ -203,6 +202,9 @@
   .judul {
     font-size: 26px;
     white-space: normal;
+  }
+  .slide-content {
+    margin: 0;
   }
 }
 </style>

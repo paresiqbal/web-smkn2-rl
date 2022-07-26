@@ -19,7 +19,9 @@
       <p>Kepala Sekolah SMKN 2 Rejang Lebong</p>
       <p>Sunardi, S.Pd.Bio</p>
     </div>
-    <div class="sidebar"></div>
+    <div class="sidebar">
+      <Sidebar />
+    </div>
   </div>
 </template>
 
@@ -37,6 +39,7 @@ import Sidebar from "../components/Sidebar.vue";
   font-size: 40px;
   font-weight: 500;
   color: #183153;
+  padding: 20px 0;
 }
 
 .main-content p {
@@ -47,6 +50,7 @@ import Sidebar from "../components/Sidebar.vue";
 @media (max-width: 574px) {
   .slide-container {
     display: inline;
+    margin: 0 6px;
   }
 
   .main-content {
