@@ -13,7 +13,7 @@
             <RouterLink to="/isiberita"
               ><a href="/" class="title"
                 >Pembagian Rapor Semester Ganjil SMKN 2 Rejang Lebong Tahun
-                2021</a
+                2021aaaaaaaaaaaaaaaaaaaaa</a
               ></RouterLink
             >
             <p>Pembagian Rapor Dilaksanakan Hari Sabtu 18 Desember</p>
@@ -117,6 +117,7 @@
 
 .image-container {
   width: 340px;
+  min-width: 340px;
   height: 200px;
 }
 

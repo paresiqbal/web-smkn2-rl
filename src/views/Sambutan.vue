@@ -26,7 +26,12 @@
 </template>
 
 <script setup>
+import { onMounted } from "@vue/runtime-core";
 import Sidebar from "../components/Sidebar.vue";
+
+onMounted(() => {
+  document.title = "Sambutan";
+});
 </script>
 
 <style scoped>
