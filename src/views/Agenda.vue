@@ -50,7 +50,6 @@
 .slide-container {
   display: flex;
   color: #183153;
-  margin: 0 140px;
 }
 
 .news-wrapper h2 {
@@ -122,5 +121,8 @@
 }
 
 @media screen and (min-width: 500px) {
+  .slide-container {
+    margin: 0 140px;
+  }
 }
 </style>

@@ -102,4 +102,10 @@ import Tags from "../components/Tags.vue";
     display: grid;
   }
 }
+
+@media (min-width: 500px) {
+  .slide-container {
+    margin: 0 140px;
+  }
+}
 </style>
